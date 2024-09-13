@@ -2,6 +2,7 @@ body {
     background-image: url('images/bg-mobile.png');
     background-size: cover;
     background-position: top center;
+    background-repeat: no-repeat;
     font-family: 'Raleway';
   }
 
@@ -17,7 +18,7 @@ body {
   #box {
     background-color: hsl(228, 56%, 26%);
     border-radius: 5px 90px 5px 5px;
-    width: 373px;
+    width: 300px;
 
     display: flex;
     flex-flow: column;
