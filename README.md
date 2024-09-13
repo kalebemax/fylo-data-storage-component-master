@@ -9,7 +9,7 @@ This is my solution to the [Fylo data storage component challenge on Frontend Me
 
 
 - Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub]()
+- Live Site URL: [GitHub](https://kalebemax.github.io/fylo-data-storage-component-master/)
 
 
 
